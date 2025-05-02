@@ -19,7 +19,7 @@ export default function Home() {
           {process.env.NEXT_PUBLIC_APP_TITLE}
         </h1>
         <p className="text-muted-foreground text-center">
-          X project demonstrates how to self-host a Next.js app on a VPS with
+          XA project demonstrates how to self-host a Next.js app on a VPS with
           a local PostgreSQL database. All Next.js features like image
           optimizations, server components, and caching are fully functional.
           Check out the tutorial on my{" "}
